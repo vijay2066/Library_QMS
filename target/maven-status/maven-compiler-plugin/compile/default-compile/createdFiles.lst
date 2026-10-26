@@ -1,0 +1,4 @@
+com\mycompany\library_qms\JakartaRestConfiguration.class
+com\mycompany\library_qms\resources\JakartaEE10Resource.class
+com\mycompany\library_qms\DB.class
+com\mycompany\library_qms\QmsServlet.class
